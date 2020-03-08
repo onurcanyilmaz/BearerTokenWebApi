@@ -8,6 +8,7 @@ using System.Web.Http;
 namespace BearerTokenExample.Controllers
 {
     //pr 
+    //pr2
     [Authorize]
     public class ProductController : ApiController
     {
