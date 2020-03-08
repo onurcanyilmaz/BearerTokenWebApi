@@ -9,6 +9,7 @@ namespace BearerTokenExample.Controllers
 {
     //pr 
     //pr2
+    //pr3
     [Authorize]
     public class ProductController : ApiController
     {
